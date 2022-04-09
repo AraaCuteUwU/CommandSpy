@@ -27,8 +27,6 @@ See all commands executed by players
 
 -----------------
 
------------------
-
 ## Permissions
     permissions: commandspy.use
     defaul: op
