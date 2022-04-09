@@ -32,8 +32,3 @@ See all commands executed by players
 ## Permissions
     permissions: commandspy.use
     defaul: op
-
------------------
-
-# Issue
-    Create an issue [here](https://github.com/AraaCuteUwU/CommandSpy/issues)
