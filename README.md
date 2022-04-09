@@ -1,8 +1,6 @@
 # CommandSpy
 See all commands executed by players
 
------------------
-
 ## Base configuration
 
     # Setup here the no permission message
@@ -20,15 +18,12 @@ See all commands executed by players
 
     # Setup here if you want all commands execute by player will send in the console
     console: "true"
------------------
 
 ## Commands
     command: /commandspy
     aliases: [/spy, /cmdspy, /cmd]
     defaul: op
 
------------------
-
 ## Permissions
     permissions: commandspy.use
-    defaul: op
+    default: op
