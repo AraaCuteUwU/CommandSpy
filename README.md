@@ -35,5 +35,5 @@ See all commands executed by players
 
 -----------------
 
-## Issue
+# Issue
     Create an issue [here](https://github.com/AraaCuteUwU/CommandSpy/issues)
