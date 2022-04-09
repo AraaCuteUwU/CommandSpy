@@ -1,0 +1,15 @@
+name: CommandSpy
+main: AraaCuteUwU\CommandSpy\Main
+version: 1.0.0
+api: 4.0.0
+author: AraaCuteUwU
+
+commands:
+  commandspy:
+    description: "CommandSpy Command"
+    aliases: ["cmd", "cmdspy", "spy"]
+    permission: commandspy.use
+
+permissions:
+   commandspy.use:
+    default: op
