@@ -36,4 +36,4 @@ See all commands executed by players
 -----------------
 
 ## Issue
-    Create an issue <a href="https://github.com/AraaCuteUwU/CommandSpy/issues">Here</a>
+    Create an issue [here] (https://github.com/AraaCuteUwU/CommandSpy/issues)
